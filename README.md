@@ -16,7 +16,9 @@ My work also include usage of satellite imageries and researches in related GIS 
 
 ### Skills
 
-<div align="center">![My Skills](https://skillicons.dev/icons?i=python,matlab,js,git,gitlab,github,postgres,mongo)</div>
+<div style="text-align: center;">
+  <img src="[your-image-url.jpg](https://skillicons.dev/icons?i=python,matlab,js,git,gitlab,github,postgres,mongo)">
+</div>
 
 - **Backend Development and Data Analytics**: Python, Matlab
 - **Data Visualization and Interface**: JavaScript, CesiumJS
