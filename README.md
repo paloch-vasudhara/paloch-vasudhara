@@ -1,5 +1,5 @@
 # <div align="center">Hi, I'm Paloch Vasudhara</div>
-<div align="center"><b>Space Systems Specialist • Aerospace Researcher</b></div>div>Air and space enthusiast, with passion to explore new frontiers
+<div align="center"><b>Space Systems Specialist • Aerospace Researcher</b></div>Air and space enthusiast, with passion to explore new frontiers
 
 ---
 
@@ -16,7 +16,7 @@ My work also include usage of satellite imageries and researches in related GIS 
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,matlab,js,git,gitlab,github,postgres,mongo)
+<div align="center">![My Skills](https://skillicons.dev/icons?i=python,matlab,js,git,gitlab,github,postgres,mongo)</div>
 
 - **Backend Development and Data Analytics**: Python, Matlab
 - **Data Visualization and Interface**: JavaScript, CesiumJS
