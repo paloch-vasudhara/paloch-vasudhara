@@ -1,5 +1,5 @@
 # <div align="center">Hi, I'm Paloch Vasudhara</div>
-<div align="center"><b>Space Systems Specialist • Aerospace Researcher</b></div>Air and space enthusiast, with passion to explore new frontiers
+<div align="center"><b>Space Systems Specialist • Aerospace Researcher</b><br>Air and space enthusiast, with passion to explore new frontiers</div>
 
 ---
 
