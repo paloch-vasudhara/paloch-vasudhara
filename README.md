@@ -5,9 +5,9 @@
 
 ### About Me
 
-- 🌍 Sri Racha, Chonburi, Thailand  
-- 💼 Space Systems Specialist at [DELV Aerospace Co., Ltd.](https://delvaerospace.com/)  
-- 🎓 B.Sc./B.Eng. Aerospace Engineering: Royal Melbourne Institute of Technology / Kasetsart University (International Double Degree Program) 
+🌍 Sri Racha, Chonburi, Thailand  
+💼 Space Systems Specialist at [DELV Aerospace Co., Ltd.](https://delvaerospace.com/)  
+🎓 B.Sc./B.Eng. Aerospace Engineering: Royal Melbourne Institute of Technology/Kasetsart University (International Double Degree Program) 
 
 I work on data analytics for air and space monitoring, mainly backend APIs and research on tracking solutions.  
 My work also include usage of satellite imageries and researches in related GIS subjects such as water resource monitoring, active forest fire / burntrace detection and aircraft noise predictions.
