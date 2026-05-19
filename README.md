@@ -18,12 +18,12 @@ My work also include usage of satellite imageries and researches in related GIS 
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=python,matlab,js,git,gitlab,github,postgres,mongo)
+![My Skills](https://skillicons.dev/icons?i=python,matlab,js,git,gitlab,github,postgres,mongo,figma)
 
 </div>
 
 - **Backend Development and Data Analytics**: Python, Matlab
-- **Data Visualization and Interface**: JavaScript, CesiumJS
+- **Data Visualization and Interface**: JavaScript, CesiumJS, Figma
 - **Database Design**: PostgreSQL, MongoDB
 - **Tools & Environment**: Git, Gitlab, Github, VS Code
 
@@ -33,6 +33,12 @@ My work also include usage of satellite imageries and researches in related GIS 
 
 **ssa-toolkit**  
 Space situational awareness tool for space object tracking, conjunction monitoring and mission planning.
+
+**water-surface-detection**
+Research-based for water detection and amount determination for reservoirs using Fused sensor data from optical and SAR bands.
+
+**firms-opportunity-count**
+A quick tool for finding amount of pass within MODIS or VIIRS sensors (NASA-LANCE-FIRMS) for research on hotspot detection bias.
 
 **airspace-tracking-system**  
 Tracking system for triangulating the position of a detected UAV or an aircraft within a monitoring sector.
